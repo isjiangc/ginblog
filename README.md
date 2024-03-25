@@ -1,9 +1,9 @@
-# ginblog是基于nunu脚手架开发的博客后台接口
+# ginblog是使用nunu基础模版学习练手blog后台接口服务
 
-ginblog 是基于nunu脚手架开发的博客后台接口
+ginblog是使用nunu基础模版学习练手blog后台接口服务
 
 ## 项目介绍
-ginblog 是基于nunu脚手架开发的博客后台接口
+ginblog是使用nunu基础模版学习练手blog后台接口服务
 
 ## 功能
 
